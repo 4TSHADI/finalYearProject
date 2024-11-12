@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tshad\\Documents\\PROJECTS\\final_year_project\\pipingPy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9CF1D8-95FE-A0D8-D1EB-2824B9C98A37}|Assembly-CSharp.csproj|c:\\users\\tshad\\documents\\projects\\final_year_project\\pipingpy\\assets\\scripts\\parametercollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9CF1D8-95FE-A0D8-D1EB-2824B9C98A37}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parametercollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9CF1D8-95FE-A0D8-D1EB-2824B9C98A37}|Assembly-CSharp.csproj|c:\\users\\tshad\\documents\\projects\\final_year_project\\pipingpy\\assets\\scripts\\cakediameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9CF1D8-95FE-A0D8-D1EB-2824B9C98A37}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cakediameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "89b35294-12d8-4fd6-bca6-9ea9ec25f582",
+        "Display": 0,
+        "X": 727,
+        "Y": 370,
+        "Width": 965,
+        "Height": 628,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParameterCollector.cs",
+              "DocumentMoniker": "C:\\Users\\tshad\\Documents\\PROJECTS\\final_year_project\\pipingPy\\Assets\\Scripts\\ParameterCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParameterCollector.cs",
+              "ToolTip": "C:\\Users\\tshad\\Documents\\PROJECTS\\final_year_project\\pipingPy\\Assets\\Scripts\\ParameterCollector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParameterCollector.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:34:59.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cakeDiameter.cs",
+              "DocumentMoniker": "C:\\Users\\tshad\\Documents\\PROJECTS\\final_year_project\\pipingPy\\Assets\\Scripts\\cakeDiameter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\cakeDiameter.cs",
+              "ToolTip": "C:\\Users\\tshad\\Documents\\PROJECTS\\final_year_project\\pipingPy\\Assets\\Scripts\\cakeDiameter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\cakeDiameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:56:09.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
